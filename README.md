@@ -14,6 +14,8 @@ line-budget-bot/
 ├─ appsscript.json
 └─ src/
    └─ bot.gs
+   └─ example.xlsx
+
 ```
 
 ## ✨ 功能摘要
