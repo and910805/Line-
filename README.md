@@ -159,21 +159,5 @@ MIT
 
 ---
 
-## 🧾 appsscript.json
-```json
-{
-  "timeZone": "Asia/Taipei",
-  "dependencies": {},
-  "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8",
-  "oauthScopes": [
-    "https://www.googleapis.com/auth/script.external_request",
-    "https://www.googleapis.com/auth/drive",
-    "https://www.googleapis.com/auth/spreadsheets",
-    "https://www.googleapis.com/auth/script.scriptapp",
-    "https://www.googleapis.com/auth/script.container.ui"
-  ]
-}
-````
 
 
