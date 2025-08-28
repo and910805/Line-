@@ -25,6 +25,8 @@ line-budget-bot/
 - LINE 簽章驗證（`X-Line-Signature`）
 
 ---
+<img width="560" height="485" alt="image" src="https://github.com/user-attachments/assets/02190046-44f9-42f9-9519-a6f56d5b0f46" />
+
 
 ## 🛡️ 安全與隱私
 - **不要**把 Token、Secret、Sheet ID 寫在原始碼；請改用 **Script Properties**。
