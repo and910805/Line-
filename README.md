@@ -1,14 +1,3 @@
-太好了，我幫你把 Apps Script（LINE Bot）整理成「可公開在 GitHub」的版本：
-
-* **移除／改為 placeholder**：金流與投資標的名稱、Spreadsheet ID、LINE Token/Secret、Drive 圖片 ID 等。
-* **改為 Script Properties 注入**，Repo 內不會出現你的敏感資訊。
-* **附 README**（中文），逐段解釋每個模組做什麼、如何部署與安全清單。
-
-下面直接給你「可貼到 GitHub」的最小專案（三個檔案）：
-
----
-
-## 📁 專案結構（建議）
 
 ```
 line-budget-bot/
@@ -18,9 +7,7 @@ line-budget-bot/
    └─ bot.gs
 ```
 
----
 
-## 📄 README.md
 
 ````markdown
 # LINE Budget Bot (Google Apps Script)
