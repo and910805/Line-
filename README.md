@@ -1,4 +1,13 @@
 
+
+
+# LINE Budget Bot (Google Apps Script)
+
+一個用 LINE OA + Google Sheet 記帳／查詢的小機器人。  
+**重點：此 Repo 不含任何敏感資訊**（Token、Secret、表單 ID、真實標的名稱），均以 **Script Properties** 注入。
+
+---
+
 ```
 line-budget-bot/
 ├─ README.md
@@ -6,16 +15,6 @@ line-budget-bot/
 └─ src/
    └─ bot.gs
 ```
-
-
-
-````markdown
-# LINE Budget Bot (Google Apps Script)
-
-一個用 LINE OA + Google Sheet 記帳／查詢的小機器人。  
-**重點：此 Repo 不含任何敏感資訊**（Token、Secret、表單 ID、真實標的名稱），均以 **Script Properties** 注入。
-
----
 
 ## ✨ 功能摘要
 - 指令解析（餐費紀錄、通用「加/設定/查」）
@@ -59,7 +58,7 @@ line-budget-bot/
      ["Fund_A", 0], ["Fund_B", 0], ["Fund_C", 0],
      ["Exchange_A", 0], ["Exchange_B", 0], ["Exchange_C", 0], ["Exchange_D", 0]
    ]
-````
+
 
 ### 範例：`MAP_OVERRIDE_JSON`
 
@@ -156,7 +155,7 @@ line-budget-bot/
 
 MIT
 
-````
+
 
 ---
 
